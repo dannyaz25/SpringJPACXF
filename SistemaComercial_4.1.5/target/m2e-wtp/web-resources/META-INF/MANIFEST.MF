@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: SistemaComercial_4.1.5
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Danny SantaCruz - danielsan1289@gmail.com
-Build-Jdk: 1.7.0_79
-Created-By: Maven Integration for Eclipse
-Extension-Name: SistemaComercial_4.1.5
-
