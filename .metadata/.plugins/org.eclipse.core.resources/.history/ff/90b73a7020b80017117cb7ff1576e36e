@@ -1,0 +1,19 @@
+package com.bean;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class EmpleadoBRTest {
+
+	@Test
+	public void testCalculaSalarioBruto() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testCalculaSalarioNeto() {
+		fail("Not yet implemented");
+	}
+
+}

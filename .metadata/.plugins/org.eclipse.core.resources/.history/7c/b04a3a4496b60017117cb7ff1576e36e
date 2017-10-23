@@ -1,0 +1,5 @@
+package com.companyName.services;
+
+public class UserServiceImpl {
+
+}

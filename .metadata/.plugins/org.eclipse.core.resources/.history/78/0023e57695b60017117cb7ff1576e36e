@@ -1,0 +1,5 @@
+package com.companyName.repository;
+
+public class UserRepository {
+
+}

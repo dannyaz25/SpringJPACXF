@@ -1,0 +1,14 @@
+package com.bean;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ColaMensajesTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

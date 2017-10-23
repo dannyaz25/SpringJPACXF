@@ -1,0 +1,15 @@
+package com.bean;
+
+public class EmpleadoBR {
+	float calculaSalarioBruto( 
+			  TipoEmpleado tipo, 
+			  float ventasMes, 
+			  float horasExtra){
+		
+	}
+	float calculaSalarioNeto(  
+			  float salarioBruto)
+	{
+		
+	}
+}

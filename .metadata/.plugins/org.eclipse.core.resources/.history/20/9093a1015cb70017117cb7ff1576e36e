@@ -1,0 +1,5 @@
+package com.companyName.rest;
+
+public class UserRestController {
+
+}

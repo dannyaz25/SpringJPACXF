@@ -1,0 +1,5 @@
+package com.bean;
+
+public class BRException extends Exception {
+	throw new BRException("Error al conectar al servidor de la AEAT", e);
+}

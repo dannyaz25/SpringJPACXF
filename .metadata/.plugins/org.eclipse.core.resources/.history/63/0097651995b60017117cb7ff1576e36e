@@ -1,0 +1,5 @@
+package com.companyName.modelo;
+
+public class User {
+
+}
