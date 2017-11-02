@@ -1,7 +1,0 @@
-package com.bean;
-
-import java.util.List;
-
-public class ProxyAeat {
-	public List<TramoRetencion> getTramosRetencion() throws IOException {}
-}

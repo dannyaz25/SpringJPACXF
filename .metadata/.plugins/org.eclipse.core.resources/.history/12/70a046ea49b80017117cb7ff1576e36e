@@ -1,0 +1,24 @@
+package com.bean;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+import org.mockito.Mockito;
+
+import com.packt.trading.MarketWatcher;
+
+public class StockBrokerTest {
+	 MarketWatcher marketWatcher =Mockito.mock(MarketWatcher.class);
+	Portfolio portfolio =Mockito.mock(Portfolio.class);
+
+	@Test
+	public void testStockBroker() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testPerform() {
+		fail("Not yet implemented");
+	}
+
+}
